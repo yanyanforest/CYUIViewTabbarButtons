@@ -1,0 +1,27 @@
+PODS:
+  - CYUIViewTabbarButtons (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CYUIViewTabbarButtons (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CYUIViewTabbarButtons:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CYUIViewTabbarButtons: cff16f2b61ebc8f9a7b979b5d9bd90d935ca917c
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: d59ade1ffdf3e1f56e75bf279f060a21020a3605
+
+COCOAPODS: 1.5.3

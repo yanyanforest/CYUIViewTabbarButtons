@@ -1,0 +1,6 @@
+framework module CYUIViewTabbarButtons {
+  umbrella header "CYUIViewTabbarButtons-umbrella.h"
+
+  export *
+  module * { export * }
+}

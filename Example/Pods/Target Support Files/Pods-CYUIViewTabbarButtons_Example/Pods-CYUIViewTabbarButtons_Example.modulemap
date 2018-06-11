@@ -1,0 +1,6 @@
+framework module Pods_CYUIViewTabbarButtons_Example {
+  umbrella header "Pods-CYUIViewTabbarButtons_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
