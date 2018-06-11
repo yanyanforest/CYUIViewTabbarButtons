@@ -8,10 +8,9 @@
 
 #import "CYViewController.h"
 #import <CYUIViewTabbarButtons/CYUIViewTabbarButtons.h>
-#import "CYUIViewTabbarButtons.h"
 #define kScreenWidth [[UIScreen mainScreen]bounds].size.width
 
-@interface CYViewController ()
+@interface CYViewController ()<CYUIViewTabbarDataSource>
 @property(nonatomic,strong)CYUIViewTabbarButtons *headerView;
 @property(nonatomic,strong)CYUIViewTabbarButtons *headerView1;
 @property(nonatomic,strong)CYUIViewTabbarButtons *headerView2;
@@ -117,9 +116,7 @@
         
         _headerView.indicatorEqualTitleWidth = NO;
         
-        UIView *line1View = [[UIView alloc]initWithFrame:CGRectMake((self.view.bounds.size.width - 2 )/ 3.0, 10, 1, 20)];
-        line1View.backgroundColor = [UIColor colorNamed:@"#f5f5f5"];
-        [_headerView addSubview:line1View];
+       
     }
     _headerView.block_IndexPathSelected = ^(NSIndexPath * _Nonnull indexPath) {
         NSLog(@"--- 选中");
@@ -192,10 +189,6 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
+
 
 @end

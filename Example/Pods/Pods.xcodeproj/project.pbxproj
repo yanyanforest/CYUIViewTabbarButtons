@@ -82,10 +82,10 @@
 		1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
 		1BC4354BECF0C3F16FB3444A27F305DB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		1DEAF6BE8064108A0FFFBC92AC646C7D /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/MapKit.framework; sourceTree = DEVELOPER_DIR; };
-		1ED6DA7DA57FC4FE7B0D5551B39CAE1B /* CYUIViewTabbarButtons.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = CYUIViewTabbarButtons.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		1FE5035885C54867BADF726430351876 /* Pods_CYUIViewTabbarButtons_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CYUIViewTabbarButtons_Example.framework; path = "Pods-CYUIViewTabbarButtons_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		207BA6BE2FBBD171CA2F4B1270006506 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		263C21BF939157F3FD9E8025F6D21555 /* Pods_CYUIViewTabbarButtons_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CYUIViewTabbarButtons_Tests.framework; path = "Pods-CYUIViewTabbarButtons_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1ED6DA7DA57FC4FE7B0D5551B39CAE1B /* CYUIViewTabbarButtons.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = CYUIViewTabbarButtons.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1FE5035885C54867BADF726430351876 /* Pods_CYUIViewTabbarButtons_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CYUIViewTabbarButtons_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		207BA6BE2FBBD171CA2F4B1270006506 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		263C21BF939157F3FD9E8025F6D21555 /* Pods_CYUIViewTabbarButtons_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CYUIViewTabbarButtons_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		3935C96C4B145E16D199C1A0112CEF61 /* Pods-CYUIViewTabbarButtons_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CYUIViewTabbarButtons_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
@@ -100,7 +100,7 @@
 		4F393074066E2B0C11B467F38FD22182 /* CYUIViewTabbarButtons.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CYUIViewTabbarButtons.xcconfig; sourceTree = "<group>"; };
 		5187445141DA0BF93F7D50BD8F1BDC94 /* Pods-CYUIViewTabbarButtons_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CYUIViewTabbarButtons_Tests-resources.sh"; sourceTree = "<group>"; };
 		58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
-		5AEB083399553CEB3326769AFD887CB6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		5AEB083399553CEB3326769AFD887CB6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		5CC3F779F7AF5BF7B6C0E6FDA7A8A863 /* Pods-CYUIViewTabbarButtons_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CYUIViewTabbarButtons_Tests-dummy.m"; sourceTree = "<group>"; };
 		5E0FB88E943CDF32FBB3572F94E4E50B /* CYUIViewTabbarButtons.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CYUIViewTabbarButtons.m; path = CYUIViewTabbarButtons/Classes/CYUIViewTabbarButtons.m; sourceTree = "<group>"; };
 		5E1FCAD2C9AD8B57A35B977BD5964B12 /* Pods-CYUIViewTabbarButtons_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CYUIViewTabbarButtons_Example-dummy.m"; sourceTree = "<group>"; };
@@ -108,7 +108,7 @@
 		692A4A7F47873DEAFE1604056F5E20DA /* Pods-CYUIViewTabbarButtons_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CYUIViewTabbarButtons_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		6B6E2474E433BAD364E01D5694399A40 /* Pods-CYUIViewTabbarButtons_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CYUIViewTabbarButtons_Example-frameworks.sh"; sourceTree = "<group>"; };
 		6BFC90C1B865766E471DD3887D8B9AE0 /* Pods-CYUIViewTabbarButtons_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CYUIViewTabbarButtons_Tests-umbrella.h"; sourceTree = "<group>"; };
-		6E73CAA4DB9641505F0AFB3B54E0A4A7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		6E73CAA4DB9641505F0AFB3B54E0A4A7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7B37D7C695D5C6C47A7C093595CD4F06 /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
 		7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		7ED4A68722B7CBEE9EA9A0C3CD2E2382 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -117,7 +117,7 @@
 		8901C3B4583482C532AAA5B9A7A2D7DD /* Pods-CYUIViewTabbarButtons_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CYUIViewTabbarButtons_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8D7272A9CE56BB586D97D266EAC5485B /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		8E6CF55AFFD1F998BAD1164DB2086FD6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		995C52DFB68A392D9BD304416B603C88 /* CYTabbarButtonItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CYTabbarButtonItem.m; path = CYUIViewTabbarButtons/Classes/CYTabbarButtonItem.m; sourceTree = "<group>"; };
 		A11D5B54955E3381F067364E427B571A /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		A9F7870B0FD0F8D0B48B8D525EB7A6D5 /* Pods-CYUIViewTabbarButtons_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CYUIViewTabbarButtons_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -129,7 +129,7 @@
 		C340EA3BA81CDD33E241ECC9E00215F9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D32A9F618A9927E0331791E8A62385AA /* Pods-CYUIViewTabbarButtons_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CYUIViewTabbarButtons_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
-		DEA8DE28A29C014B07AB26CB138369B6 /* CYUIViewTabbarButtons.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CYUIViewTabbarButtons.framework; path = CYUIViewTabbarButtons.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEA8DE28A29C014B07AB26CB138369B6 /* CYUIViewTabbarButtons.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CYUIViewTabbarButtons.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 		E624241F4974BEFD4DEE01622C1567D0 /* CYUIViewTabbarButtons.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CYUIViewTabbarButtons.h; path = CYUIViewTabbarButtons/Classes/CYUIViewTabbarButtons.h; sourceTree = "<group>"; };
 		EAFBF43192BF76638DB19AFD2CAA287F /* Pods-CYUIViewTabbarButtons_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CYUIViewTabbarButtons_Example-resources.sh"; sourceTree = "<group>"; };
@@ -223,7 +223,6 @@
 				3288FCB8E15F6401DE6220AE5CA1D27B /* Support Files */,
 				99E46DD4AB2256791F111C718CB0EEF8 /* SwiftSupport */,
 			);
-			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
 			sourceTree = "<group>";
 		};
@@ -603,7 +602,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3935C96C4B145E16D199C1A0112CEF61 /* Pods-CYUIViewTabbarButtons_Tests.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -638,7 +637,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0ADA7D8F7762C0AD61D8322EC3826CEC /* Pods-CYUIViewTabbarButtons_Tests.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -943,6 +942,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
