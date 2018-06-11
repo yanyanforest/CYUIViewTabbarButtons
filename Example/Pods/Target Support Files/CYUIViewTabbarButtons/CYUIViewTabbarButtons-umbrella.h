@@ -10,6 +10,10 @@
 #endif
 #endif
 
+#import "CYTabbarButtonItem.h"
+#import "CYUICVCellTabbarButton.h"
+#import "CYUIViewTabbarButtons.h"
+#import "CYUIViewTabbarHeader.h"
 
 FOUNDATION_EXPORT double CYUIViewTabbarButtonsVersionNumber;
 FOUNDATION_EXPORT const unsigned char CYUIViewTabbarButtonsVersionString[];

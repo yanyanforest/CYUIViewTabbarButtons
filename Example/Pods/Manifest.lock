@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CYUIViewTabbarButtons: cff16f2b61ebc8f9a7b979b5d9bd90d935ca917c
+  CYUIViewTabbarButtons: 5da8463e0b159e954164716b8ef5adaad6d6c51b
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
 PODFILE CHECKSUM: d59ade1ffdf3e1f56e75bf279f060a21020a3605

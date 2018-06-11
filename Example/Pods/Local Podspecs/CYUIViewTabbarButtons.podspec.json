@@ -1,22 +1,23 @@
 {
   "name": "CYUIViewTabbarButtons",
   "version": "0.1.0",
-  "summary": "A short description of CYUIViewTabbarButtons.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/yanyanforest@163.com/CYUIViewTabbarButtons",
+  "summary": "many button  similar tabbar in top view",
+  "description": "TODO: CYUIViewTabbarButtons is similar to tabbar, easy to use in project.",
+  "homepage": "https://github.com/yanyanforest/CYUIViewTabbarButtons",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "yanyanforest@163.com": "2570583222@qq.com"
+    "yanyan": "yanyanforest@163.com"
   },
   "source": {
-    "git": "https://github.com/yanyanforest@163.com/CYUIViewTabbarButtons.git",
+    "git": "https://github.com/yanyanforest/CYUIViewTabbarButtons.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "CYUIViewTabbarButtons/Classes/**/*"
+  "source_files": "CYUIViewTabbarButtons/Classes/*.{h,m}",
+  "frameworks": "UIKit"
 }

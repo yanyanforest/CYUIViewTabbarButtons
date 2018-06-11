@@ -1,9 +1,9 @@
 use_frameworks!
 
 target 'CYUIViewTabbarButtons_Example' do
-  pod 'CYUIViewTabbarButtons', :path => '../'
-
-  target 'CYUIViewTabbarButtons_Tests' do
+#  pod 'CYUIViewTabbarButtons', :path => '../'
+pod 'CYUIViewTabbarButtons', :podspec => '../CYUIViewTabbarButtons.podspec'
+target 'CYUIViewTabbarButtons_Tests' do
     inherit! :search_paths
 
     pod 'FBSnapshotTestCase'

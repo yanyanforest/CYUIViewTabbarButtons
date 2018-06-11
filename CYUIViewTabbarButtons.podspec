@@ -24,20 +24,20 @@ DESC
 s.homepage         = 'https://github.com/yanyanforest/CYUIViewTabbarButtons'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
-s.author           = { 'yanyanforest@163.com' => '2570583222@qq.com' }
+s.author           = { 'yanyan' => 'yanyanforest@163.com' }
 s.source           = { :git => 'https://github.com/yanyanforest/CYUIViewTabbarButtons.git', :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'CYUIViewTabbarButtons/Classes/**.{h,m}'
+s.source_files = 'CYUIViewTabbarButtons/Classes/*.{h,m}'
 
 # s.resource_bundles = {
 #   'CYUIViewTabbarButtons' => ['CYUIViewTabbarButtons/Assets/*.png']
 # }
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
-s.frameworks = 'UIKit', 'MapKit'
+s.frameworks = 'UIKit'
 # s.dependency 'AFNetworking', '~> 2.3'
 end
 

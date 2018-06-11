@@ -8,6 +8,7 @@
 
 #import "CYViewController.h"
 #import <CYUIViewTabbarButtons/CYUIViewTabbarButtons.h>
+#import "CYUIViewTabbarButtons.h"
 #define kScreenWidth [[UIScreen mainScreen]bounds].size.width
 
 @interface CYViewController ()
