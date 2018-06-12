@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		109DA11E965937FB6FAC72B2 /* Pods_CYUIViewTabbarButtons_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 650EEF717A8C992FC237DE64 /* Pods_CYUIViewTabbarButtons_Example.framework */; };
+		3A38CD3E20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.43.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A38CD3C20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.43.png */; };
+		3A38CD3F20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.49.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A38CD3D20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.49.png */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -37,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3A38CD3C20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.43.png"; sourceTree = "<group>"; };
+		3A38CD3D20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.49.png"; sourceTree = "<group>"; };
 		59AF5FAADFE7FDDDB5EB0D58 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* CYUIViewTabbarButtons_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CYUIViewTabbarButtons_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -95,6 +99,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3A38CD3B20CF487700F0AA1E /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+				3A38CD3C20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.43.png */,
+				3A38CD3D20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.49.png */,
+			);
+			path = ScreenShots;
+			sourceTree = "<group>";
+		};
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
@@ -132,6 +145,7 @@
 		6003F593195388D20070C39A /* Example for CYUIViewTabbarButtons */ = {
 			isa = PBXGroup;
 			children = (
+				3A38CD3B20CF487700F0AA1E /* ScreenShots */,
 				6003F59C195388D20070C39A /* CYAppDelegate.h */,
 				6003F59D195388D20070C39A /* CYAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
@@ -280,7 +294,9 @@
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
+				3A38CD3F20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.49.png in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
+				3A38CD3E20CF48D600F0AA1E /* Simulator Screen Shot - iPhone 8 - 2018-06-12 at 08.15.43.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
